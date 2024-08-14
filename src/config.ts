@@ -10,5 +10,5 @@ export let proxys:
 export let proxys: 
     Proxy[] = [ {domain: "alhs.ananyo.fun",url: "https://www.alhs.xyz/" }];
 export let proxys: 
-    Proxy[] = [ {domain: "wiki.ananyo.fun",url: "https://www.zh.wikipedia.org/" }];
+    Proxy[] = [ {domain: "wiki.ananyo.fun",url: "https://zh.wikipedia.org/" }];
    
