@@ -3,9 +3,5 @@ export interface Proxy {
     url: string;
 }
 
-export let proxys: Proxy[] = [
-    {
-        domain: "ggproxy-one.vercel.app",
-        url: "https://www.google.com/"
-    }
-];
+export let proxys: 
+    Proxy[] = [ {domain: "ggproxy-one.vercel.app",url: "https://www.google.com/" }];
