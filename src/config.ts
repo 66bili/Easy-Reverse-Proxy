@@ -4,6 +4,6 @@ export interface Proxy {
 }
 
 export let proxys: Proxy[] = [{
-        domain: "https://gg.ananyo.com",
+        domain: "gg.ananyo.com",
         url: "https://www.google.com/"
     }];
